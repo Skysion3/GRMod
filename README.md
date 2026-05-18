@@ -1,7 +1,7 @@
 # GRMod
 
 ## What is this?
-A mod for Counter-Strike: Global Offensive that modifies the ui and adds some gameplay content.
+A small mod for Counter-Strike: Global Offensive that modifies the UI and adds some gameplay content.
 
 ## Installation
 - Download [CS:GO from Steam](steam://install/4465480)
@@ -12,6 +12,6 @@ A mod for Counter-Strike: Global Offensive that modifies the ui and adds some ga
 
 ## Credits
 
+* **IlluMinAty** - slightly modified the browserfix ui to have uniform map icons
 * **Parker** - for the browserfix ui and for adding a scroll bar to the vote screen (qol gang approved!!!)
 * **Mikko Kokko** - csgo_gc
-* * **IlluMinAty** - slightly modified the browserfix ui to have uniform map icons
