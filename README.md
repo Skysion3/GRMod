@@ -1,10 +1,7 @@
 # GRMod
 
-> [!CAUTION]
-> This project is incomplete and not ready for general use.
-
 ## What is this?
-Modpack for Counter-Strike: Global Offensive that modifies the game's Panorama UI and some gameplay content.
+A mod for Counter-Strike: Global Offensive that modifies the ui and adds some gameplay content.
 
 ## Installation
 - Download [CS:GO from Steam](steam://install/4465480)
