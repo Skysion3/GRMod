@@ -4,7 +4,7 @@
 > This project is incomplete and not ready for general use.
 
 ## What is this?
-Small modpack for Counter-Strike: Global Offensive that modifies the game's Panorama UI and adds some gameplay content.
+Modpack for Counter-Strike: Global Offensive that modifies the game's Panorama UI and some gameplay content.
 
 ## Installation
 - Download [CS:GO from Steam](steam://install/4465480)
@@ -14,6 +14,6 @@ Small modpack for Counter-Strike: Global Offensive that modifies the game's Pano
 - Launch the game from steam.
 
 ## Credits
-* **IlluMinAty** - Slightly modded the browserfix ui
+* **IlluMinAty** - slightly modified the browserfix ui to have uniform map icons
 * **Parker** - for the browserfix ui and for adding a scroll bar to the vote screen (qol gang approved!!!)
 * **Mikko Kokko** - csgo_gc
