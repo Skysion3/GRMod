@@ -7,7 +7,7 @@ A small mod for Counter-Strike: Global Offensive that modifies the UI and adds s
 - Download [CS:GO from Steam](steam://install/4465480)
 - Download the latest release [releases page](https://github.com/Skysion3/GRMod/releases)
 - Navigate to the game's installation directory
-- Extract the contents of the downloaded archive to your game directory, replace the executables when prompted
+- Extract the contents of the downloaded archive to your game directory, replace the files when prompted
 - Launch the game from steam.
 
 ## Credits
