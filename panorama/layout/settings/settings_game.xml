@@ -806,7 +806,7 @@
 					<Panel class="SettingsMenuDropdownContainer">
 						<Label text="Viewmodel Preset Position" class="half-width"/>
 						<CSGOSettingsEnumDropDown class="PopupButton White" convar="viewmodel_presetpos">
-							<Label text="#SFUI_Settings_ViewmodelPosDesktop" value="1" id ="viewmodelpreset0"/>
+							<Label text="#SFUI_Settings_ViewmodelPosDesktop" value="1" id ="viewmodelpreset1"/>
 							<Label text="#SFUI_Settings_ViewmodelPosCouch" value="2" id ="viewmodelpreset2"/>
 							<Label text="#SFUI_Settings_ViewmodelPosClassic" value="3" id ="viewmodelpreset3"/>
 						</CSGOSettingsEnumDropDown>
