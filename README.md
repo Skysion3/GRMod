@@ -6,13 +6,14 @@
 
 ### csgo_gc:
 - Added csgo_gc to fix the in-game inventory system.
-- The default inventory.txt file now comes with the **Global Offensive Badge** and **CS:GO Music Kit** rather than **Karambit | Fade** by default.
+- The default inventory.txt file now comes with the **Global Offensive Badge**, **CS:GO (Panorama) Music Kit** and **CS:GO (Scaleform) Music Kit** rather than **Karambit | Fade** by default.
 - Added flo's csgo_gc inventory editor with the base install for easily adding skins without an external download.
 
 ### UI changes:
 - Removed the CS:GO 360 stats button, News tab and other menu elements that were deprecated when CS:GO intially went offline.
 - Removed Danger Zone Button from the "Practice with Bots" tab due to the gamemode not being functional offline.
 - Modified some UI strings.
+- Added an optional Scaleform 4.2-style hud
 - Server Browser button is now in the main menu sidebar for convience.
 - Scrollable map list in the change map vote screen.
 - Uniform map icon size in the change map vote screen.
