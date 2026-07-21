@@ -780,8 +780,8 @@ var TournamentJournal = ( function()
 					usetinynames: true,
                     usegroupname: g_ActiveTournamentStoreLayout[ i ][ 2 ],
                     warningtext: !bIsPurchaseable ?
-                        '#tournament_items_not_released' + ( bContainsJustChampions ? '_1' : '' ) : InventoryAPI.GetItemTypeFromEnum( itemid ) === 'type_tool' ?
-                        '#tournament_items_notice' : '',
+                        '' + ( bContainsJustChampions ? '_1' : '' ) : InventoryAPI.GetItemTypeFromEnum( itemid ) === 'type_tool' ?
+                        '' : '',
                     isdisabled: !bIsPurchaseable,
                     extrapopupfullscreenstyle: true
                 }

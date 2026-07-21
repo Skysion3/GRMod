@@ -43,10 +43,10 @@ var MainMenuStoreTile = ( function()
 
 		if ( reduction )
 		{
-			elSale.visible = true;
+			elSale.visible = false;
 			elSale.text = ItemInfo.GetStoreOriginalPrice( id, 1 );
 
-			elPrecent.visible = true;
+			elPrecent.visible = false;
 			elPrecent.text = reduction;
 		}
 		else

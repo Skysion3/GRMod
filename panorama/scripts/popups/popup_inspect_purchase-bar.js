@@ -143,10 +143,10 @@ var InpsectPurchaseBar = ( function()
 
 		if( salePercent )
 		{
-			elSalePrice.visible = true;
+			elSalePrice.visible = false;
 			elSalePrice.text = salePrice;
 
-			elSalePercent.visible = true;
+			elSalePercent.visible = false;
 			elSalePercent.text = salePercent;
 			return;
 		}

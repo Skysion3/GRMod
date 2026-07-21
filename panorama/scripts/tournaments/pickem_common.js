@@ -556,7 +556,7 @@ var PickemCommon = ( function()
 				'file://{resources}/layout/context_menus/context_menu_store_linked_items.xml',
 				'itemids=' + itemId + ',' + itemIdLinked +
 				( usetinynames ? '&usetinynames=' + usetinynames : '' ) +
-				'&warningtext=#tournament_items_notice'
+				'&warningtext='
 			);
 			contextMenuPanel.AddClass( "ContextMenu_NoArrow" );
 		};
